@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Bethan Reeves"
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   bio              : "A Data Science wannabe gradually getting closer to the dream"
   location         : "UK"
   employer         : 
