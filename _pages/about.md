@@ -2,7 +2,7 @@
 permalink: /
 title: "Welcome to my Personal, Professional and Academic Site on All Things Data"
 excerpt: "About me"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
