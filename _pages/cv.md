@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc in Mathematics, Operational Research and Statistics, Cardiff University, 2015
+* PostCert in Computer Science with Data Analytics, University of York, 2021 - pending results
+* D.DataSc, Professional Doctorate in Data Science, University of East London - incoming candidate Sep-21
 
 Work experience
 ======
