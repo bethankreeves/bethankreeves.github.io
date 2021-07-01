@@ -11,7 +11,7 @@ title                    : "Bethan Reeves / Data Nerd"
 title_separator          : "-"
 name                     : &name "Bethan Reeves"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://bethankreeves.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bethankreeves/bethankreeves.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Bethan Reeves"
-  avatar           : <img src="images/profile.png" class="img-responsive" alt=""> </div>
+  avatar           : "profile.png"
   bio              : "A Data Science wannabe gradually getting closer to the dream"
   location         : "UK"
   employer         : 
