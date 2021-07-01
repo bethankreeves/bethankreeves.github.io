@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Bethan Reeves / Data Science"
+title                    : "Bethan Reeves / Data Nerd"
 title_separator          : "-"
 name                     : &name "Bethan Reeves"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Bethan Reeves"
   avatar           : "profile.png"
-  bio              : "A Data Science wannabe gradually getting closer to the dream!"
+  bio              : "A Data Science wannabe gradually getting closer to the dream"
   location         : "UK"
   employer         : 
   email            :
