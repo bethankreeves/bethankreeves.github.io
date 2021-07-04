@@ -215,7 +215,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-   _short-burst videos
+   _"short-burst videos"
   - scope:
       path: ""
       type: short-burst videos
