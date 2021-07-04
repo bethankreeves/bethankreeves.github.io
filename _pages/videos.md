@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "videos"
+title: "Short-Burst Video Tutorials"
 permalink: /videos/
 author_profile: true
 redirect_from:
