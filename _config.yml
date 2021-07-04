@@ -175,7 +175,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  short-burst videos:
+  videos:
    output: true
    permalink: /:collection/:path/
   portfolio:
@@ -215,16 +215,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
-   _"short-burst videos"
+ #  _videos
   - scope:
       path: ""
-      type: short-burst videos
+      type: videos
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-   _portfolio
+ #  _portfolio
   - scope:
       path: ""
       type: portfolio
