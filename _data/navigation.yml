@@ -4,13 +4,10 @@ main:
   - title: "Short-Burst Videos"
     url: /videos/    
 
-  - title: "Projects"
+  - title: "Projects & Study"
     url: /projects/    
     
   - title: "Professional"
-    url: /professional/
-        
-  - title: "Blog"
     url: /year-archive/
     
   - title: "CV"
