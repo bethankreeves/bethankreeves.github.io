@@ -13,7 +13,7 @@ Working as an Insight and Analytics Executive at Vodafone Business, and gearing 
 
 I currently hold a BSc in Mathematics, Operational Research and Statistics and a Postgraduate Certificate in Computer Science. I am excited to be joining UEL as a Data Science Doctoral candidate this September.
 
-I will be undertaking th doctorate on a part-time basis with the intetion of directing my research towards geosocial networks online across the UK in comparison with access to, and use of, Child and Adolescent Mental Health Services.
+I will be undertaking the doctorate on a part-time basis with the intention of directing my research towards geosocial networks online in comparison with access to, and use of, Child and Adolescent Mental Health Services in the UK.
 
 I am passionate about continuous development, representation of women in STEM (especially data!) and mental health/wellbeing.
 
