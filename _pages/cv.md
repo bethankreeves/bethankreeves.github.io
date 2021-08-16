@@ -39,4 +39,4 @@ Work experience
 
 * June 2021-Present: Insight & Analytics Executive
   * Vodafone UK
-  * Vodafone Business - Data Transformation - Data Science and Insight
+  * Vodafone Business - Data Transformation - CVM Data Science
