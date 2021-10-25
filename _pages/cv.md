@@ -21,7 +21,8 @@ Work experience
   * Vodafone UK: Technology Security
 
 * September 2015-July 2017: Technology Graduate
-  * Vodafone UK: Network Operations/Retail/Office IT
+  * Vodafone UK: 
+       * Network Operations/Retail/Office IT
 
 * July 2017-January 2018: Performance Reporting Specialist
   * Vodafone UK: UK IT Operations
