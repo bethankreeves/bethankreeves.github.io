@@ -18,20 +18,25 @@ Education
 Work experience
 ======
 * Summer 2014: Risk Management Intern
-  * Vodafone UK: Technology Security
+  * Vodafone UK: 
+      * Technology Security
 
 * September 2015-July 2017: Technology Graduate
   * Vodafone UK: 
        * Network Operations/Retail/Office IT
 
 * July 2017-January 2018: Performance Reporting Specialist
-  * Vodafone UK: UK IT Operations
+  * Vodafone UK: 
+       * UK IT Operations
 
 * May 2018-September 2020: Analyst Statistician
-  * Thatcham Research: Insurance Research/Digital
+  * Thatcham Research: 
+       * Insurance Research/Digital
 
 * September 2020-June 2021: Service Analyst
-  * Babcock International: GARDS - British Army
+  * Babcock International: 
+       * GARDS - British Army
 
 * June 2021-Present: Insight & Analytics Executive
-  * Vodafone UK: Vodafone Business - Commercial Marketing - CVM Data Science
+  * Vodafone UK: 
+       * Vodafone Business - Commercial Marketing - CVM Data Science
