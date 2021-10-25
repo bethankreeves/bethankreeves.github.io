@@ -13,7 +13,7 @@ Education
 ======
 * BSc Mathematics, Operational Research and Statistics, Cardiff University, 2012-2015
 * PGCert Computer Science with Data Analytics, University of York, 2020-2021 (distinction)
-* D.DataSc, Professional Doctorate Data Science, University of East London - incoming candidate Sep-21
+* D.DataSc, Professional Doctorate Data Science, University of East London, 2021-2026
 
 Work experience
 ======
